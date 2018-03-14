@@ -1,0 +1,15 @@
+{
+  "name": "cs-546-lab-2",
+  "version": "0.0.1",
+  "description": "Lab2 ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kandarp_Desai_10419687",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
